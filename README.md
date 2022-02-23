@@ -3,3 +3,7 @@
 
 ## 20210517
 2021학년도 1학기 TeX 워크샵 자료입니다.
+
+(홍보자료)
+
+![2021년 제 1회 TeX 워크샵](https://user-images.githubusercontent.com/51364987/155344010-65ff8ca4-0803-4efa-a140-3505479b172c.PNG)
